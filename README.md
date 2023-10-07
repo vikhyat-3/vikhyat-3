@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikhyat-3
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning NodeJS, Web Dev and AI/ML using Python
+- 👀 I’m interested in web development and Generative AI!
+- 🌱 Currently, I'm well versed in NestJS(Node),SpringBoot,ReactJS.
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me ...
 
